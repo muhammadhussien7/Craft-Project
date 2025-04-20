@@ -643,7 +643,6 @@ const NavbarHome = (props) => {
 
 NavbarHome.defaultProps = {
   imageAlt2: 'image',
-  languageLinkUrl: 'https://www.teleporthq.io',
   action1: 'Action 1',
   imageSrc5: '/logo_craft-1-removebg-preview-200h.png',
   imageSrc2: '/logo_craft-1-removebg-preview-200h.png',
