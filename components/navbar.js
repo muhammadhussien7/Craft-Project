@@ -619,7 +619,7 @@ Navbar.defaultProps = {
   action1: 'Action 1',
   imageAlt5: 'image',
   rootClassName: '',
-  languageLinkUrl: 'https://www.teleporthq.io',
+
 }
 
 Navbar.propTypes = {
